@@ -1,5 +1,8 @@
 # Web Development Forum
 
+The Web Development Forum is an online platform dedicated to fostering collaboration, knowledge sharing, and discussions among web developers of all skill levels. The goal of the project is to create a vibrant community where developers can connect, learn from each other, and stay updated with the latest trends and technologies in web development. 
+Users can create topics, participate in discussions, comment on posts, provide answers to questions, and share their knowledge and experiences.
+
 Web Development Forum is a project based on MEAN stack (MongoDB, Express.js, AngularJS, Node.js). This implementation contains modular code and a component-based application structure using Angular 1.5 and ES6. It uses Gulp and a handful of Gulp plugins to perform various tasks. The project has a responsive layout.
 
 ## Getting Started
